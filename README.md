@@ -1,2 +1,2 @@
-# naveenvalluri-valluri
+# naveenvalluri-valluri.github.io
 website for everyone 
